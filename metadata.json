@@ -1,0 +1,6 @@
+{
+  "name": "Personal Portfolio",
+  "description": "A minimal, single-page personal portfolio for an AI/ML student.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
