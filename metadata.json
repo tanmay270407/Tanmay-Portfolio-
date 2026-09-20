@@ -1,6 +1,6 @@
 {
-  "name": "Personal Portfolio",
-  "description": "A minimal, single-page personal portfolio for an AI/ML student.",
+  "name": "Tanmay Kumar - Portfolio",
+  "description": "Portfolio of Tanmay Kumar, an AI/ML enthusiast and CSE student at Galgotias University building systems and web apps.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
